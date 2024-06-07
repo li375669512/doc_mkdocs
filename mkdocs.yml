@@ -3,22 +3,22 @@ site_url: https://example.com/
 nav:
     - 首页: index.md
     - 关于: about.md
-theme: readthedocs
-# theme: 
-    # name: mkdocs
-    # highlightjs: true
-    # hljs_languages:
-        # - yaml
-        # - rust
-        # - python
+# theme: readthedocs
+theme: 
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - rust
+        - python
 
-    # locale: zh_CN
+    locale: zh_CN
     
-    # markdown_extentions:
-      # - admonition
+    markdown_extentions:
+      - admonition
 
-    # plugins:
-      # - search
+    plugins:
+      - search
 
-    # extra_css:
-      # - resources/css/extra.css
+    extra_css:
+      - resources/css/extra.css
