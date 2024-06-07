@@ -1,0 +1,24 @@
+site_name: MyDocs
+site_url: https://example.com/
+nav:
+    - 首页: index.md
+    - 关于: about.md
+theme: readthedocs
+# theme: 
+    # name: mkdocs
+    # highlightjs: true
+    # hljs_languages:
+        # - yaml
+        # - rust
+        # - python
+
+    # locale: zh_CN
+    
+    # markdown_extentions:
+      # - admonition
+
+    # plugins:
+      # - search
+
+    # extra_css:
+      # - resources/css/extra.css
